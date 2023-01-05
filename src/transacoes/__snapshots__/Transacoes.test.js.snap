@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Componente de transação do extrato O snapshot do component deve permanecer sempre o mesmo 1`] = `
+<div
+  data-testid="transacoes"
+/>
+`;
